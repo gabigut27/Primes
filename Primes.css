@@ -1,0 +1,27 @@
+.divResults {
+    display: flex;
+    font-size: large;
+    font-family:fantasy;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 600px;
+  }
+  .textfont{
+    font-family:fantasy;
+    font-size: large;
+
+  }
+  .button {
+    background-color: #8945a3; /* Green */
+    border: none;
+    font-family:fantasy;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
